@@ -1,1 +1,1 @@
-# Logistic-Regression
+# support vector machine
